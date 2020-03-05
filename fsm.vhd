@@ -39,7 +39,7 @@
 --
 
 ----------------------------------------------------------------------------------------
---	B.Bertrand Damien.R Laurent
+--	B.Bertrand Damien.R Laurent autre
 --	03/04/2009
 --	generate signal_errorwait and before_errorwait for rx component
 --	inout signal is removed
