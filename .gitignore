@@ -13,7 +13,7 @@ $ cat .git/info/exclude
 *.[oa]
 $ cat Documentation/.gitignore
 # ignore generated html files,
-*.txt
+/*.txt
 # except foo.html which is maintained by hand
 !foo.html
 $ git status
