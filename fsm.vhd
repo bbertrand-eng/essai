@@ -254,5 +254,6 @@ end process;
 before_errorwait <= before_errorwait_signal;
 
 --continu le trunk
+--continu encore le trunk
 
 end RTL;
