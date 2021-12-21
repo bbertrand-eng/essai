@@ -254,5 +254,6 @@ end process;
 before_errorwait <= before_errorwait_signal;
 
 --test branch
+--continu la branch
 
 end RTL;
